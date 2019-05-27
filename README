@@ -1,0 +1,4 @@
+0. Set macro of PRINT_ANS 1, in order to print the combination of answers
+1. Compile command: gcc -std=c99 eight_queen.c -o eight_queen
+2. Excute command: ./eight_queen 8 4
+(8 is an input of number of queens, 4 is an input of number of threads)
